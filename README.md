@@ -12,3 +12,28 @@ Fitness Tracker é um aplicativo para smartphones Android com o objetivo de moni
 
 
 ###### [*Aplicativo desenvolvido no curso Android Express, instrutor Tiago Aguiar*](https://androiddeveloper.com.br/inscricao?ref=X70622330X)
+
+<p align="center">
+<img width="200"  height="100%" src="https://github.com/cintiaasilva/App--Fitness-Android-Express/blob/main/toReadme/TelaInicial.jpg"
+</p>
+
+<p align="center">
+<img width="200"  height="100%" src="https://github.com/cintiaasilva/App--Fitness-Android-Express/blob/main/toReadme/TelaIMC.jpg"
+</p>
+
+<p align="center">
+<img width="200"  height="100%" src="https://github.com/cintiaasilva/App--Fitness-Android-Express/blob/main/toReadme/TelaRegistrosImc.jpg"
+</p>
+
+<p align="center">
+<img width="200"  height="100%" src="https://github.com/cintiaasilva/App--Fitness-Android-Express/blob/main/toReadme/DialogExcluirItem.jpg"
+</p>
+
+<p align="center">
+<img width="200"  height="100%" src="https://github.com/cintiaasilva/App--Fitness-Android-Express/blob/main/toReadme/TelaTMB.jpg"
+</p>
+
+<p align="center">
+<img width="200"  height="100%" src="https://github.com/cintiaasilva/App--Fitness-Android-Express/blob/main/toReadme/TelaRegistrosTmb.jpg"
+</p>
+
